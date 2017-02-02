@@ -1,0 +1,42 @@
+/** Stylesheet for Module 3 Assignment
+ ** Course: HTML, CSS, and Javascript for Web Developers (Coursera)
+ ** Instructor: Yaakov Chaikin
+ ** 
+ ** Written by: Jason Costabile
+ **/
+ 
+
+* {
+	box-sizing: border-box;
+}
+
+h1 {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.content-box {
+	background-color: #BBBBBB;
+	margin: 0 25px 40px;
+	padding: 10px 40px 30px;
+}
+
+.content-box h2 {
+	font-size: 26px;
+}
+
+.content-box p {
+	margin-top: 20px;
+}
+
+.navbar-nav {
+	margin-top: 0;
+	margin-bottom: 0;
+	border-bottom: 1px solid;
+}
+
+.navbar-nav li {
+	text-align: center;
+	border-top: 1px solid;
+	background-color: #f0dfc1;
+}
